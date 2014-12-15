@@ -1,0 +1,9 @@
+{
+  "name": "nodjango",
+  "dependencies": {
+    "express": "^4.8.8",
+    "socket.io": "^0.9.0",
+    "http-proxy-agent": "^0.2.6",
+    "express-http-proxy": "^0.3.0"
+  }
+}
